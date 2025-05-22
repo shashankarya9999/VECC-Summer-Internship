@@ -6,7 +6,9 @@ Contents:
    
 Links:
 1) [Zybo Z7 Reference Manual](https://digilent.com/reference/programmable-logic/zybo-z7/reference-manual)
-2) [Pmod AD1 Reference Manual](https://digilent.com/reference/pmod/pmodad1/reference-manual?redirect=1)
+2) Pmod AD1 Reference Manual
+   - [Link 1](https://digilent.com/reference/pmod/pmodad1/reference-manual?redirect=1)
+   - [Link 2](https://digilent.com/reference/pmod/pmodad1/start?srsltid=AfmBOooCFlo5c4yQ4HSvN0AYv5uxojle6DdbRSbTugZk2-r12hAPnNiF)
    
 
 Additional Readings:
