@@ -1,5 +1,7 @@
 This file outlines the detailed description of the daywise progress made in the internship so far:
 
+Resources used for study can be found in the directory ```Reference-Material```
+
 <strong>Day 1 - </strong>```19/05/25```
   - Internship registration and other formalities
   - Revision of basics of embedded systems and IoT
@@ -55,7 +57,7 @@ This file outlines the detailed description of the daywise progress made in the 
   - Study of basics of Operating Systems(OS)
 
 
-Resources used so far can be found in the directory ```Reference-Material```
+
 
 
 
