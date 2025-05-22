@@ -1,6 +1,6 @@
 Contents:
 
-1) AMD Zynq 7000 architecture  
+1) Zynq 7000 architecture  
 
 References:
 
