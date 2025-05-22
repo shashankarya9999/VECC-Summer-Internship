@@ -46,11 +46,16 @@ This file outlines the detailed description of the daywise progress made in the 
     - ERROR: Nothing was showing up on the serial terminal, even after doing the aforementioned steps[To be continued]
       - Tried with software like putty and minicom to observe serial terminal but same error crept in
       - checked the USB port to see if it was working properly but it was not the issue
-      - checked the two connections(one to PROG and other to UART) to the board and the power cable, but no issue there
+      - checked the two connections(one to PROG and other to UART) to the board and the power connection, but no issue there
 
 <strong>Day 4 - </strong>```22/05/25``` 
   - Trying to display Hello World using UART on Zynq Processor on Xilinx Zedboard using Xilinx Vivado and Xilinx Vitis[continuation]
     - Issue resolved: The UART0 was getting mapped to EMIO peripheral and causing error
     - Successfully displayed "Hello World" on both vitis emulator and putty(serial connection to ttyACM0 port)
   - Study of basics of Operating Systems(OS)
+
+
+Resources used so far can be found in the directory ```Reference-Material```
+
+
 
