@@ -1,9 +1,14 @@
 Contents:
-
 1) Zynq architecture & 7-Series FPGA architecture
+2) Zybo Z7 Zynq-7000 ARM/FPGA SoC Development Board
+3) 
+   
+Links:
+1) [Zybo Z7 Reference Manual](https://digilent.com/reference/programmable-logic/zybo-z7/reference-manual)
    
 
-References:
-
-1) [Zynq 7000 SoC and 7 Series Devices Memory Interface Solutions, LogiCORE IP Data Sheet (DS176)](https://docs.amd.com/r/en-US/ds176_7Series_MIS)
+Additional Readings:
+1) [Zybo Z7 Main Website](https://digilent.com/reference/programmable-logic/zybo-z7/start?srsltid=AfmBOopN7uKfjqV6cPSYC5BULxTQLSalCz9P4wHHEFmc3UUQrYhqpCC9) 
+2) [Zybo Z7 Technical Reference Manual](https://docs.amd.com/r/en-US/ug585-zynq-7000-SoC-TRM/Programmable-Logic-Features-and-Descriptions)
+3) [Zynq 7000 SoC and 7 Series Devices Memory Interface Solutions, LogiCORE IP Data Sheet (DS176)](https://docs.amd.com/r/en-US/ds176_7Series_MIS)
 
