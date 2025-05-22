@@ -1,7 +1,7 @@
 Contents:
 1) Zynq architecture & 7-Series FPGA architecture
-2) Zybo Z7 Zynq-7000 ARM/FPGA SoC Development Board
    - [Reference-1](2_Zynq_Architecture_C7T.pdf)
+2) Zybo Z7 Zynq-7000 ARM/FPGA SoC Development Board
 3) 
    
 Links:
