@@ -1,6 +1,6 @@
 Contents:
 
-1) Zynq architecture
+1) Zynq architecture & 7-Series FPGA architecture
    
 
 References:
