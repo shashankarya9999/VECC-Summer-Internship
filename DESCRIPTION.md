@@ -54,10 +54,25 @@ Resources used for study can be found in the directory ```Reference-Material```
   - Trying to display Hello World using UART on Zynq Processor on Xilinx Zedboard using Xilinx Vivado and Xilinx Vitis[continuation]
     - Issue resolved: The UART0 was getting mapped to EMIO peripheral and causing error
     - Successfully displayed "Hello World" on both vitis emulator and putty(serial connection to ttyACM0 port)
-  - Study of basics of Operating Systems(OS)
+  - Study of basics of Operating Systems(OS)[To be continued]
 
-
-
+<strong>Day 5 - </strong>```23/05/25``` 
+  - Study of basics of Operating Systems(OS)[continuation]
+  - Study of bitstream and netlist
+  - Familiarization with Xilinx Zedboard:
+    - its components and peripherals
+    - study of different peripherals and their purpose using Zedboard datasheet
+  - Implementation of GPIO via MIO on Zedboard
+    - Created block design(removing some peripherals from Block Design to decrease build time of final vitis application project) in Vivado
+    - Generated bitstream and then exported Hardware design in Vivado
+    - Made Platform and application project from exported ```.xsa```file in Vitis
+    - Wrote a bare metal C program to
+      - read input from PS GPIO pin 50(push button)
+      - write input data to PS GPIO pin 7(built-in LED)
+      - control the Pmod pins according to the input data(the input read from PS GPIO pin 50)
+    - Analyzed the waveform at the Pmod pin on a Multimeter and then on a Digital Oscilloscope
+    - The waveform was square in accordance with the code
+    - The time period and duty cycle of the square waveform was as calculated
 
 
 
