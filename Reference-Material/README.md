@@ -9,7 +9,7 @@ Links:
 2) Pmod AD1 Reference Manual
    - [Link 1](https://digilent.com/reference/pmod/pmodad1/reference-manual?redirect=1)
    - [Link 2](https://digilent.com/reference/pmod/pmodad1/start?srsltid=AfmBOooCFlo5c4yQ4HSvN0AYv5uxojle6DdbRSbTugZk2-r12hAPnNiF)
-3) 
+3) [Zedboard User Guide]() 
 
 Tutorials:
 1) [Displaying "Hello World" Using the UART on the Zynq Processor on the Xilinx Zedboard](https://youtu.be/oJ-Kl7PR0Oo?feature=shared)
