@@ -9,10 +9,11 @@ Links:
 2) Pmod AD1 Reference Manual
    - [Link 1](https://digilent.com/reference/pmod/pmodad1/reference-manual?redirect=1)
    - [Link 2](https://digilent.com/reference/pmod/pmodad1/start?srsltid=AfmBOooCFlo5c4yQ4HSvN0AYv5uxojle6DdbRSbTugZk2-r12hAPnNiF)
+3) 
 
 Tutorials:
 1) [Displaying "Hello World" Using the UART on the Zynq Processor on the Xilinx Zedboard](https://youtu.be/oJ-Kl7PR0Oo?feature=shared)
-2) 
+2) [Implementation of GPIO via MIO on ZedBoard](https://youtu.be/qRKlKWHhkUc?feature=shared)
    
 Additional Readings:
 1) [Zybo Z7 Main Website](https://digilent.com/reference/programmable-logic/zybo-z7/start?srsltid=AfmBOopN7uKfjqV6cPSYC5BULxTQLSalCz9P4wHHEFmc3UUQrYhqpCC9) 
