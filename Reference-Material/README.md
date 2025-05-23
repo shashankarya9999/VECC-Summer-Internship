@@ -17,6 +17,9 @@ Tutorials:
 2) [Implementation of GPIO via MIO on ZedBoard](https://youtu.be/qRKlKWHhkUc?feature=shared)
 3) [ZYNQ for beginners: programming and connecting the PS and PL | Part 1](https://youtu.be/_odNhKOZjEo?feature=shared)
 4) [ZYNQ for beginners: programming and connecting the PS and PL | Part 2](https://youtu.be/AOy5l36DroY?feature=shared)
+
+Playlists:
+1) [Hardware Modeling Using Verilog](https://youtube.com/playlist?list=PLRsFfXmDi9IYCNlvNjrsD8bLMmNE0UxBH&feature=shared)
    
 Additional Readings:
 1) [Zybo Z7 Main Website](https://digilent.com/reference/programmable-logic/zybo-z7/start?srsltid=AfmBOopN7uKfjqV6cPSYC5BULxTQLSalCz9P4wHHEFmc3UUQrYhqpCC9) 
