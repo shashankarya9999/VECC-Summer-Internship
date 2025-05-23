@@ -3,6 +3,7 @@ Contents:
    - [Reference-1](2_Zynq_Architecture_C7T.pdf)
 2) Zybo Z7 Zynq-7000 ARM/FPGA SoC Development Board
 3) Zedboard Zynq-7000 Development Board
+4) LLRF(Low-Level Radio Frequency) system
    
 Resources:
 1) [Zybo Z7 Reference Manual](https://digilent.com/reference/programmable-logic/zybo-z7/reference-manual)
