@@ -2,6 +2,8 @@ This file outlines the detailed description of the daywise progress made in the 
 
 Resources used for study can be found in the directory ```Reference-Material```
 
+<h2>Week 1</h2>
+
 <strong>Day 1 - </strong>```19/05/25```
   - Internship registration and other formalities
   - Revision of basics of embedded systems and IoT
@@ -43,11 +45,11 @@ Resources used for study can be found in the directory ```Reference-Material```
   - Trying to display Hello World using UART on Zynq Processor on Xilinx Zedboard using Xilinx Vivado and Xilinx Vitis[To be continued]
     - Created Block Design and then generated bitstream in Vivado
     - Exported Hardware design in Vivado
-    - Made Platform & Application project from exported ```.xsa```file in Vitis
+    - Made Platform & Application project from exported ```.xsa``` file in Vitis
     - Wrote simple "Hello World" in Vitis, build project and lauch on hardware
     - ERROR: Nothing was showing up on the serial terminal, even after doing the aforementioned steps[To be continued]
       - Tried with software like putty and minicom to observe serial terminal but same error crept in
-      - checked the USB port to see if it was working properly but it was not the issue
+      - checked the USB port to see if it was working properly(using a loopback connector<sup>*</sup> in a USB to RS-232 cable) but it was not the issue
       - checked the two connections(one to PROG and other to UART) to the board and the power connection, but no issue there
 
 <strong>Day 4 - </strong>```22/05/25``` 
@@ -64,15 +66,17 @@ Resources used for study can be found in the directory ```Reference-Material```
     - study of different peripherals and their purpose using Zedboard datasheet
   - Implementation of GPIO via MIO on Zedboard
     - Created block design(removing some peripherals from Block Design to decrease build time of final vitis application project) in Vivado
-    - Generated bitstream and then exported Hardware design in Vivado
-    - Made Platform and application project from exported ```.xsa```file in Vitis
+    - Generated bitstream and then exported hardware design in Vivado
+    - Made Platform and Application project from exported ```.xsa``` file in Vitis
     - Wrote a bare metal C program to
       - read input from PS GPIO pin 50(push button)
       - write input data to PS GPIO pin 7(built-in LED)
       - control the Pmod pins according to the input data(the input read from PS GPIO pin 50)
-    - Analyzed the waveform at the Pmod pin on a Multimeter and then on a Digital Oscilloscope
-    - The waveform was square in accordance with the code
-    - The time period and duty cycle of the square waveform was as calculated
+    - Analyzed the waveform at the Pmod pin on a Multimeter, and then on a Digital Oscilloscope
+    - The waveform was square, in accordance with the code
+    - The time period and duty cycle of the square waveform were as calculated
 
+
+<sup>*</sup> The loopback connector was connected to the RS-232 cable and the USB cable was connected to the port to check. Then, the terminal was opened and the command ```ls \dev\tty*``` was executed, this showed the ports in the system. Then, the name of the port was then identified(by connecting and disconnecting USB cable or knowing beforehand), which was ttyUSB0 in my case. Then this port was emulated using PuTTY or minicom, to let us interact with the port. When we type a character, let's say ```a```, then that character is repeated in the terminal(because of the loopback connector), like ```aa```. If the typed character is repeated, then the USB port is working correctly. Basically, the loopback connector shorts the transmitter and receiver.
 
 
