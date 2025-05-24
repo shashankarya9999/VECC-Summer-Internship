@@ -11,7 +11,8 @@ Resources:
    - [Link 1](https://digilent.com/reference/pmod/pmodad1/reference-manual?redirect=1)
    - [Link 2](https://digilent.com/reference/pmod/pmodad1/start?srsltid=AfmBOooCFlo5c4yQ4HSvN0AYv5uxojle6DdbRSbTugZk2-r12hAPnNiF)
 3) [Zedboard User Guide](zedboard_ug.pdf)
-4) [Introduction to LLRF by Mathieu Omet](11_Mathieu_Omet.pdf) 
+4) [Introduction to LLRF by Mathieu Omet](11_Mathieu_Omet.pdf)
+5) [Getting Started with Vivado and Vitis for Baremetal Software Projects](https://digilent.com/reference/programmable-logic/guides/getting-started-with-ipi?srsltid=AfmBOoraVMij_zEjTQoFenP_CaSFDiXaXll95bg6o4_EfSeNV1O2LjuC)
 
 Tutorials:
 1) [Displaying "Hello World" Using the UART on the Zynq Processor on the Xilinx Zedboard](https://youtu.be/oJ-Kl7PR0Oo?feature=shared)
