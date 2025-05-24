@@ -16,9 +16,9 @@ Resources:
 
 Tutorials:
 1) [Displaying "Hello World" Using the UART on the Zynq Processor on the Xilinx Zedboard](https://youtu.be/oJ-Kl7PR0Oo?feature=shared)
-2) [Implementation of GPIO via MIO on ZedBoard](https://youtu.be/qRKlKWHhkUc?feature=shared)
-3) [ZYNQ for beginners: programming and connecting the PS and PL | Part 1](https://youtu.be/_odNhKOZjEo?feature=shared)
-4) [ZYNQ for beginners: programming and connecting the PS and PL | Part 2](https://youtu.be/AOy5l36DroY?feature=shared)
+2) [ZYNQ for beginners: programming and connecting the PS and PL | Part 1](https://youtu.be/_odNhKOZjEo?feature=shared)
+3) [ZYNQ for beginners: programming and connecting the PS and PL | Part 2](https://youtu.be/AOy5l36DroY?feature=shared)
+4) [Implementation of GPIO via MIO on ZedBoard](https://youtu.be/qRKlKWHhkUc?feature=shared)
 5) [CMake Tutorial](https://youtu.be/7YcbaupsY8I?si=XPpTLSzxE38MAWzx)
 
 Playlists:
