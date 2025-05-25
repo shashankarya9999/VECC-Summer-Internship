@@ -1,10 +1,13 @@
 Contents:
 1) Zynq architecture & 7-Series FPGA architecture
-   - [Reference-1](2_Zynq_Architecture_C7T.pdf)
+   - [Reference](2_Zynq_Architecture_C7T.pdf)
 2) Zybo Z7 Zynq-7000 ARM/FPGA SoC Development Board
+   - [Reference](https://digilent.com/reference/programmable-logic/zybo-z7/reference-manual)
 3) Zedboard Zynq-7000 Development Board
+   - [Reference](zedboard_ug.pdf)
 4) LLRF(Low-Level Radio Frequency) system
-   
+   - [Reference](11_Mathieu_Omet.pdf)
+      
 Resources:
 1) [Zybo Z7 Reference Manual](https://digilent.com/reference/programmable-logic/zybo-z7/reference-manual)
 2) Pmod AD1 Reference Manual
