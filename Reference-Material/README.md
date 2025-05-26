@@ -37,6 +37,10 @@ Additional Readings:
 4) [Zynq 7000 SoC and 7 Series Devices Memory Interface Solutions, LogiCORE IP Data Sheet (DS176)](https://docs.amd.com/r/en-US/ds176_7Series_MIS)
 5) [Using the IP in Vivado](https://github.com/Digilent/vivado-library/tree/master/ip/Pmods/PmodAD1_v1_0)
 
+Additional Learnings: 
+1) [Tar Command in Linux With Examples](https://phoenixnap.com/kb/tar-command-in-linux)
+2) [SCP command in Linux with Examples](https://phoenixnap.com/kb/linux-scp-command)
+
 NOTE:
 1) Many of the tutorials are few years old, when SDK could still be launched from Vivado. However, now that SDK has become obsolete and Vitis has replaced it, the tutorials seem obsolete too. But that seems to not be the case. The work we do in Vitis is very similar to what we did in SDK, so the transition should not be too difficult.
 
