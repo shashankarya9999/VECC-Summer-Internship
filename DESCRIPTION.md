@@ -76,8 +76,24 @@ Resources used for study can be found in the directory ```Reference-Material```
     - The waveform was square, in accordance with the code
     - The time period and duty cycle of the square waveform were as calculated
 
+<h2>Week 2</h2>
 
+<strong>Day 6 - </strong>```26/05/25```
+  - Study of Embedded Control Systems[To be continued]
+    - Why we need embedded system for accelerator control?
+    - Types of embedded systems based on OS type - Bare Metal, Embedded OS & Linux Based
+    - Examples of embedded systems - MCU(microcontroller) based, CPU/MPU(microprocessor) based
+    - Difference between RISC-V and ARM
+    - Typical Embedded System block diagram and example
+    - Disadvantages of COTS(Commercial-Off-The-Shelf) products and need of SoM(System-On-Module)
+    - Advantages of SoM design
+    - Custom-made Embedded Control Board design involves 3 major steps - Hardware design, Linux OS design & EPICS design.
+  - Remote work setup<sup>**</sup> for Xilinx Vivado and Xilinx Vitis        
+  - Implementation of GPIO via EMIO on Zedboard[To be continued]
+    - Created block design in Vivado 
 
 <sup>*</sup> The loopback connector was connected to the RS-232 cable and the USB cable was connected to the port to check. Then, the terminal was opened and the command ```ls \dev\tty*``` was executed, this showed the ports in the system. The name of the port was then identified(by connecting and disconnecting USB cable or knowing beforehand), which was ttyUSB0 in my case. Then this port was emulated using PuTTY or minicom, to let us interact with the port. When we type a character, let's say ```a```, then that character is repeated in the terminal(because of the loopback connector), like ```aa```. If the typed character is repeated, then the USB port is working correctly. Basically, the loopback connector shorts the transmitter and receiver.
+
+<sup>**</sup> 
 
 
