@@ -7,6 +7,7 @@ Contents:
    - [Reference](zedboard_ug.pdf)
 4) LLRF(Low-Level Radio Frequency) system
    - [Reference](11_Mathieu_Omet.pdf)
+5) Embedded Control Systems
       
 Resources:
 1) [Zybo Z7 Reference Manual](https://digilent.com/reference/programmable-logic/zybo-z7/reference-manual)
@@ -23,7 +24,8 @@ Tutorials:
 2) [ZYNQ for beginners: programming and connecting the PS and PL | Part 1](https://youtu.be/_odNhKOZjEo?feature=shared)
 3) [ZYNQ for beginners: programming and connecting the PS and PL | Part 2](https://youtu.be/AOy5l36DroY?feature=shared)
 4) [Implementation of GPIO via MIO on ZedBoard](https://youtu.be/qRKlKWHhkUc?feature=shared)
-5) [CMake Tutorial](https://youtu.be/7YcbaupsY8I?si=XPpTLSzxE38MAWzx)
+5) [Implementation of GPIO via EMIO on ZedBoard](https://youtu.be/CHsidFIXUEE?si=sIlKf6QSDK2tF99D)
+6) [CMake Tutorial](https://youtu.be/7YcbaupsY8I?si=XPpTLSzxE38MAWzx)
 
 Playlists:
 1) [Hardware Modeling Using Verilog](https://youtube.com/playlist?list=PLRsFfXmDi9IYCNlvNjrsD8bLMmNE0UxBH&feature=shared)
