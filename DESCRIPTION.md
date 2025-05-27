@@ -92,6 +92,9 @@ Resources used for study can be found in the directory ```Reference-Material```
   - Implementation of GPIO via EMIO on Zedboard[To be continued]
     - Created block design in Vivado 
 
+<strong>Day 7 - </strong>```27/05/25```
+  
+
 <sup>*</sup> The loopback connector was connected to the RS-232 cable and the USB cable was connected to the port to check. Then, the terminal was opened and the command ```ls \dev\tty*``` was executed, this showed the ports in the system. The name of the port was then identified(by connecting and disconnecting USB cable or knowing beforehand), which was ttyUSB0 in my case. Then this port was emulated using PuTTY or minicom, to let us interact with the port. When we type a character, let's say ```a```, then that character is repeated in the terminal(because of the loopback connector), like ```aa```. If the typed character is repeated, then the USB port is working correctly. Basically, the loopback connector shorts the transmitter and receiver.
 
 <sup>**</sup> There is a remote server on which we wanted to run Vivado & Vitis software. So, we used a remote desktop client ```Remmina``` to remotely access the server. But our work required us to program the Zedboard which couldn't be done without a hardware server. The hardware server(```hw_server```) is required to connect our Zedboard on local computer to the remote server. To do so, a hardware server program(typing command ```hw_server``` in the terminal) is ran on the local computer and a client program of hardware manager is ran(in Vivado) on the remote server. The hw_server creates a TCP port 3121 for connection with the remote server's client program. This ensures that Zedboard can be connected and programmed on the remote server(When we open Hardware manager and open new target, the board is shown as connected).   
