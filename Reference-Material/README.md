@@ -10,7 +10,6 @@ Contents:
 5) Embedded Control Systems
    - [Reference](20241121-Hardware-DiWang.pdf)      
 
-
 Resources:
 1) Zybo Z7 Development Board 
    - [Reference Manual](https://digilent.com/reference/programmable-logic/zybo-z7/reference-manual)
@@ -21,6 +20,7 @@ Resources:
    - [Link 3](https://digilent.com/reference/learn/programmable-logic/tutorials/pmod-ips/start)
 3) Zedboard 
    - [User Guide](zedboard_ug.pdf)
+   - [Schematic](zed_sch.pdf)
  
 4) [Introduction to LLRF by Mathieu Omet](11_Mathieu_Omet.pdf)
 5) [Getting Started with Vivado and Vitis for Baremetal Software Projects](https://digilent.com/reference/programmable-logic/guides/getting-started-with-ipi?srsltid=AfmBOoraVMij_zEjTQoFenP_CaSFDiXaXll95bg6o4_EfSeNV1O2LjuC)
