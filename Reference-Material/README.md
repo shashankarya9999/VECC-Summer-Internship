@@ -21,10 +21,8 @@ Resources:
 3) Zedboard 
    - [User Guide](zedboard_ug.pdf)
    - [Schematic](zed_sch.pdf)
- 
 4) [Introduction to LLRF by Mathieu Omet](11_Mathieu_Omet.pdf)
-5) [Getting Started with Vivado and Vitis for Baremetal Software Projects](https://digilent.com/reference/programmable-logic/guides/getting-started-with-ipi?srsltid=AfmBOoraVMij_zEjTQoFenP_CaSFDiXaXll95bg6o4_EfSeNV1O2LjuC)
-6) [Embedded Control Systems](20241121-Hardware-DiWang.pdf)
+5) [Embedded Control Systems](20241121-Hardware-DiWang.pdf)
 
 Tutorials:
 1) [Displaying "Hello World" Using the UART on the Zynq Processor on the Xilinx Zedboard](https://youtu.be/oJ-Kl7PR0Oo?feature=shared)
@@ -43,6 +41,8 @@ Additional Readings:
 3) [Zedboard Main Website](https://digilent.com/reference/programmable-logic/zedboard/start?srsltid=AfmBOoqFMqRs8EuEuzuW3a6XevHhIlWW80FaLX04CqQMJyEENWKjHxco)
 4) [Zynq 7000 SoC and 7 Series Devices Memory Interface Solutions, LogiCORE IP Data Sheet (DS176)](https://docs.amd.com/r/en-US/ds176_7Series_MIS)
 5) [Using the IP in Vivado](https://github.com/Digilent/vivado-library/tree/master/ip/Pmods/PmodAD1_v1_0)
+6) [Getting Started with Vivado and Vitis for Baremetal Software Projects](https://digilent.com/reference/programmable-logic/guides/getting-started-with-ipi?srsltid=AfmBOoraVMij_zEjTQoFenP_CaSFDiXaXll95bg6o4_EfSeNV1O2LjuC)
+7) [Getting Started with Vivado for Hardware-Only Designs](https://digilent.com/reference/programmable-logic/guides/getting-started-with-vivado)
 
 Additional Learnings: 
 1) [Tar Command in Linux With Examples](https://phoenixnap.com/kb/tar-command-in-linux)
