@@ -21,7 +21,7 @@ Resources:
    - [Link 3](https://digilent.com/reference/learn/programmable-logic/tutorials/pmod-ips/start)
 3) Zedboard 
    - [User Guide](zedboard_ug.pdf)
-  <!--> - [Schematic](zed_sch_rev_f1-public (1).pdf)
+ 
 4) [Introduction to LLRF by Mathieu Omet](11_Mathieu_Omet.pdf)
 5) [Getting Started with Vivado and Vitis for Baremetal Software Projects](https://digilent.com/reference/programmable-logic/guides/getting-started-with-ipi?srsltid=AfmBOoraVMij_zEjTQoFenP_CaSFDiXaXll95bg6o4_EfSeNV1O2LjuC)
 6) [Embedded Control Systems](20241121-Hardware-DiWang.pdf)
