@@ -8,16 +8,23 @@ Contents:
 4) LLRF(Low-Level Radio Frequency) system
    - [Reference](11_Mathieu_Omet.pdf)
 5) Embedded Control Systems
-      
+   - [Reference](20241121-Hardware-DiWang.pdf)      
+
+
 Resources:
-1) [Zybo Z7 Reference Manual](https://digilent.com/reference/programmable-logic/zybo-z7/reference-manual)
+1) Zybo Z7 Development Board 
+   - [Reference Manual](https://digilent.com/reference/programmable-logic/zybo-z7/reference-manual)
+   - [Schematic](zybo_sch.pdf)
 2) Pmod AD1 Reference Manual
    - [Link 1](https://digilent.com/reference/pmod/pmodad1/reference-manual?redirect=1)
    - [Link 2](https://digilent.com/reference/pmod/pmodad1/start?srsltid=AfmBOooCFlo5c4yQ4HSvN0AYv5uxojle6DdbRSbTugZk2-r12hAPnNiF)
    - [Link 3](https://digilent.com/reference/learn/programmable-logic/tutorials/pmod-ips/start)
-3) [Zedboard User Guide](zedboard_ug.pdf)
+3) Zedboard 
+   - [User Guide](zedboard_ug.pdf)
+  <!--> - [Schematic](zed_sch_rev_f1-public (1).pdf)
 4) [Introduction to LLRF by Mathieu Omet](11_Mathieu_Omet.pdf)
 5) [Getting Started with Vivado and Vitis for Baremetal Software Projects](https://digilent.com/reference/programmable-logic/guides/getting-started-with-ipi?srsltid=AfmBOoraVMij_zEjTQoFenP_CaSFDiXaXll95bg6o4_EfSeNV1O2LjuC)
+6) [Embedded Control Systems](20241121-Hardware-DiWang.pdf)
 
 Tutorials:
 1) [Displaying "Hello World" Using the UART on the Zynq Processor on the Xilinx Zedboard](https://youtu.be/oJ-Kl7PR0Oo?feature=shared)
