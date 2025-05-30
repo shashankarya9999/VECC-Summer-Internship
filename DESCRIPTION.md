@@ -119,7 +119,7 @@ Resources used for study can be found in the directory ```Reference-Material```
       - verified the block design by running verification checker
    
 <strong>Day 9 - </strong>```29/05/25```
-  - Study of device tree
+  - Study of device tree[To be continued]
   - Implementing GPIO using AXI_GPIO on Zedboard[continuation]
     - Created Output products and also created an HDL wrapper
     - Explored the HDL wrapper file(verilog) to find the name of the GPIO bus for input(push buttons) and output(leds)
@@ -142,15 +142,15 @@ Resources used for study can be found in the directory ```Reference-Material```
     - Generated bitstream and then exported hardware design in Vivado
     - Made Platform and Application project from exported ```.xsa``` file in Vitis
     - Wrote bare metal C program to
-      - utilised functions in ```XGpio.h``` header file for
-        - taking input from 5 push buttons<sup>6</sup> 
-        - write output to 8 leds<sup>7</sup>
       - take current bit pattern of the 8 LEDS(LD0 to LD7)
       - and if a button is pressed, then increase the count of the binary number represented by the LED bit pattern by 1
       - and update LED bit pattern accordingly
     - In the C program
+      - utilised functions in ```XGpio.h``` header file for
+        - taking input from 5 push buttons 
+        - write output to 8 leds
       - I first intialize platform using ```init_platform()``` in the main function
-      - Then take two instances of XGpio(XGpio driver instance data<sup>8</sup>)
+      - Then take two instances of XGpio(XGpio driver instance data)
         - ```XGpio input, output;``` 
       - Then, ```XGpio_Initialize(&input, XPAR_AXI_GPIO_0_DEVICE_ID);``` and ```XGpio_Initialize(&output, XPAR_AXI_GPIO_1_DEVICE_ID);```
         - XGpio_Initialize() is a function defined in ```XGpio.h``` header file and it basically maps the hardware register of the AXI_GPIO IP block to the software driver
@@ -163,7 +163,20 @@ Resources used for study can be found in the directory ```Reference-Material```
       - In the infinite loop,
         - ```XGpio_DiscreteWrite()``` was used to write to GPIO
         - ```XGpio_DiscreteRead()``` was used to read from GPIO 
-
+  
+<strong>Day 10 - </strong>```30/05/25```
+  - Study of bit rate, baud rate, bandwidth, throughput and goodput; and the relation between them
+  - Study of device tree[continuation]
+    - basics of device tree
+    - basics of bootloader
+      - functions of bootloader
+      - BIOS and UEFI
+      - Benefits of UEFI
+      - Boot sequence for PC and for ARM board
+    - basics of Linux kernel and Linux rootfs 
+  - Revision of some chapters of computer networking
+    - difference between frames and packets
+    - UART data frame and packet
 
 <sup>1</sup> The loopback connector was connected to the RS-232 cable and the USB cable was connected to the port to check. Then, the terminal was opened and the command ```ls \dev\tty*``` was executed, this showed the ports in the system. The name of the port was then identified(by connecting and disconnecting USB cable or knowing beforehand), which was ttyUSB0 in my case. Then this port was emulated using PuTTY or minicom, to let us interact with the port. When we type a character, let's say ```a```, then that character is repeated in the terminal(because of the loopback connector), like ```aa```. If the typed character is repeated, then the USB port is working correctly. Basically, the loopback connector shorts the transmitter and receiver.
 
@@ -174,5 +187,3 @@ Resources used for study can be found in the directory ```Reference-Material```
 <sup>4</sup> Zedboard has 5 push buttons in PL which are: BTNC, BTND, BTNL, BTNR and BTNU 
 
 <sup>5</sup> Zedboard has 8 push buttons in PL which are: LD0, LD1, LD2, LD3, LD4, LD5, LD6 and LD7 
-
-
