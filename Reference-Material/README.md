@@ -30,7 +30,8 @@ Tutorials:
 3) [ZYNQ for beginners: programming and connecting the PS and PL | Part 2](https://youtu.be/AOy5l36DroY?feature=shared)
 4) [Implementation of GPIO via MIO on ZedBoard](https://youtu.be/qRKlKWHhkUc?feature=shared)
 5) [Implementation of GPIO via EMIO on ZedBoard](https://youtu.be/CHsidFIXUEE?si=sIlKf6QSDK2tF99D)
-6) [CMake Tutorial](https://youtu.be/7YcbaupsY8I?si=XPpTLSzxE38MAWzx)
+6) [Xilinx Zynq & PetaLinux Project Demo](https://youtu.be/U2QBNz2XzYs?si=QpzSItN8peB2YXGF)
+7) [CMake Tutorial](https://youtu.be/7YcbaupsY8I?si=XPpTLSzxE38MAWzx)
 
 Playlists:
 1) [Hardware Modeling Using Verilog](https://youtube.com/playlist?list=PLRsFfXmDi9IYCNlvNjrsD8bLMmNE0UxBH&feature=shared)
