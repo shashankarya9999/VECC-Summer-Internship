@@ -10,6 +10,7 @@ Contents:
 5) Embedded Control Systems
    - [Reference](20241121-Hardware-DiWang.pdf)      
 6) Porting Linux OS to a custom-made board
+7) Operating Systems
 
 Resources:
 1) Zybo Z7 Development Board 
@@ -24,6 +25,7 @@ Resources:
    - [Schematic](zed_sch.pdf)
 4) [Introduction to LLRF by Mathieu Omet](11_Mathieu_Omet.pdf)
 5) [Embedded Control Systems](20241121-Hardware-DiWang.pdf)
+6) [CS 377 Spring '14: Operating Systems, University of Massachusetts](https://youtube.com/playlist?list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k&feature=shared)
 
 Tutorials:
 1) [Displaying "Hello World" Using the UART on the Zynq Processor on the Xilinx Zedboard](https://youtu.be/oJ-Kl7PR0Oo?feature=shared)
