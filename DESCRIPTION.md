@@ -138,7 +138,7 @@ Resources used for study can be found in the directory ```Reference-Material```
         - gpio2_io_0_1[5] for LD5
         - gpio2_io_0_1[6] for LD6
         - gpio2_io_0_1[7] for LD7
-    - modified the master ```.xdc``` file for only ```gpio_io_i_0``` and ```gpio2_io_0_1```
+    - modified the master ```.xdc``` file<sup>6</sup> for only ```gpio_io_i_0``` and ```gpio2_io_0_1```
     - Generated bitstream and then exported hardware design in Vivado
     - Made Platform and Application project from exported ```.xsa``` file in Vitis
     - Wrote bare metal C program to
@@ -187,3 +187,5 @@ Resources used for study can be found in the directory ```Reference-Material```
 <sup>4</sup> Zedboard has 5 push buttons in PL which are: BTNC, BTND, BTNL, BTNR and BTNU 
 
 <sup>5</sup> Zedboard has 8 push buttons in PL which are: LD0, LD1, LD2, LD3, LD4, LD5, LD6 and LD7 
+
+<sup>6</sup> Zedboard master ```.xdc``` file can be found [here](https://github.com/Digilent/Zedboard-old/tree/master/Resources/XDC)
