@@ -9,6 +9,7 @@ Contents:
    - [Reference](11_Mathieu_Omet.pdf)
 5) Embedded Control Systems
    - [Reference](20241121-Hardware-DiWang.pdf)      
+6) Porting Linux OS to a custom-made board
 
 Resources:
 1) Zybo Z7 Development Board 
@@ -44,6 +45,8 @@ Additional Readings:
 5) [Using the IP in Vivado](https://github.com/Digilent/vivado-library/tree/master/ip/Pmods/PmodAD1_v1_0)
 6) [Getting Started with Vivado and Vitis for Baremetal Software Projects](https://digilent.com/reference/programmable-logic/guides/getting-started-with-ipi?srsltid=AfmBOoraVMij_zEjTQoFenP_CaSFDiXaXll95bg6o4_EfSeNV1O2LjuC)
 7) [Getting Started with Vivado for Hardware-Only Designs](https://digilent.com/reference/programmable-logic/guides/getting-started-with-vivado)
+8) [Embedded Linux Wiki](https://elinux.org/Main_Page)
+9) [Buildroot user manual](https://buildroot.org/downloads/manual/manual.html#_getting_started) 
 
 Additional Learnings: 
 1) [Tar Command in Linux With Examples](https://phoenixnap.com/kb/tar-command-in-linux)
