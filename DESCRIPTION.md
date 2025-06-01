@@ -174,7 +174,8 @@ Resources used for study can be found in the directory ```Reference-Material```
       - Benefits of UEFI
       - Boot sequence for PC and for ARM board
     - basics of Linux kernel and Linux rootfs 
-  - Revision of some chapters of computer networking
+  - Revision of computer networking
+    - five layers of TCP/IP Protocol Suite 
     - difference between frames and packets
     - UART data frame and packet
 
