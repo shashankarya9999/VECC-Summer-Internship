@@ -56,4 +56,3 @@ Additional Learnings:
 
 NOTE:
 1) Many of the tutorials are few years old, when SDK could still be launched from Vivado. However, now that SDK has become obsolete and Vitis has replaced it, the tutorials seem obsolete too. But that seems to not be the case. The work we do in Vitis is very similar to what we did in SDK, so the transition should not be too difficult.
-
