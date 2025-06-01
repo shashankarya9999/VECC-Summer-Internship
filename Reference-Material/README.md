@@ -11,6 +11,7 @@ Contents:
    - [Reference](20241121-Hardware-DiWang.pdf)      
 6) Porting Linux OS to a custom-made board
 7) Operating Systems
+8) Embedded Systems and Internet of Things(IoT)
 
 Resources:
 1) Zybo Z7 Development Board 
