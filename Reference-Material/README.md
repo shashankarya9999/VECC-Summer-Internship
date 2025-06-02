@@ -11,7 +11,6 @@ Contents:
    - [Reference](20241121-Hardware-DiWang.pdf)      
 6) Porting Linux OS to a custom-made board
 7) Operating Systems
-8) Embedded Systems and Internet of Things(IoT)
 
 Resources:
 1) Zybo Z7 Development Board 
@@ -55,6 +54,12 @@ Additional Readings:
 Additional Learnings: 
 1) [Tar Command in Linux With Examples](https://phoenixnap.com/kb/tar-command-in-linux)
 2) [SCP command in Linux with Examples](https://phoenixnap.com/kb/linux-scp-command)
+3) WinSCP for Windows
+   - Tool that allows file transfer from remote server to local file system or vice-versa
+   - Just give the remote server's ip address, port number, username and password,
+   - then GUI interface will show file system of both remote server and local computer
+4) FileZilla for Linux
+   - same working as WinSCP but it works on Linux 
 
 NOTE:
 1) Many of the tutorials are few years old, when SDK could still be launched from Vivado. However, now that SDK has become obsolete and Vitis has replaced it, the tutorials seem obsolete too. But that seems to not be the case. The work we do in Vitis is very similar to what we did in SDK, so the transition should not be too difficult.
