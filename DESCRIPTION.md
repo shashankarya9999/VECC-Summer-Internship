@@ -188,7 +188,8 @@ Resources used for study can be found in the directory ```Reference-Material```
     - Then compressed the bitstream to occupy less space
       - Before compression: 4MB
       - After compression: 683.3kB 
-    - Installed PetaLinux on local machine and remote server
+    - Installation PetaLinux on local machine and remote server[To be continued]
+      - ERROR: compatibility issues between OS on remote server and PetaLinux version 
 
 
 <sup>1</sup> The loopback connector was connected to the RS-232 cable and the USB cable was connected to the port to check. Then, the terminal was opened and the command ```ls \dev\tty*``` was executed, this showed the ports in the system. The name of the port was then identified(by connecting and disconnecting USB cable or knowing beforehand), which was ttyUSB0 in my case. Then this port was emulated using PuTTY or minicom, to let us interact with the port. When we type a character, let's say ```a```, then that character is repeated in the terminal(because of the loopback connector), like ```aa```. If the typed character is repeated, then the USB port is working correctly. Basically, the loopback connector shorts the transmitter and receiver.
