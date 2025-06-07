@@ -1,4 +1,4 @@
-This file outlines the detailed description of the daywise progress made in the internship so far:
+This file outlines the detailed description of the daywise progress made in the internship so far.
 
 Resources used for study can be found in the directory ```Reference-Material```
 
