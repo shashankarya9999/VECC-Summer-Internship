@@ -29,6 +29,7 @@ Resources:
 6) [CS 377 Spring '14: Operating Systems, University of Massachusetts](https://youtube.com/playlist?list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k&feature=shared)
 7) [CS 377 Spring '14: Operating Systems | Main Website](https://tildesites.bowdoin.edu/~sbarker/teaching/courses/os/14spring/)
 8) [Petalinux, Xilinx Wiki](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18842250/PetaLinux)
+9) [PetaLinux Tools Documentation: Reference Guide (UG1144), Petalinux 2023.1](https://docs.amd.com/r/2023.1-English/ug1144-petalinux-tools-reference-guide/Installing-the-PetaLinux-Tool)
 
 Tutorials:
 1) [Displaying "Hello World" Using the UART on the Zynq Processor on the Xilinx Zedboard](https://youtu.be/oJ-Kl7PR0Oo?feature=shared)
