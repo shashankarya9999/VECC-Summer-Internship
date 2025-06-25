@@ -1,6 +1,6 @@
 This file outlines the detailed description of the daywise progress made in the internship so far.
 
-Resources used for study can be found in the directory ```Reference-Material```
+Resources used for study can be found in the directory ```Reference-Material```.
 
 <h2>Week 1</h2>
 
