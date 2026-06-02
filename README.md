@@ -193,7 +193,7 @@ Resources used for study can be found in the directory ```Reference-Material```.
     - Installation PetaLinux on local machine and remote server[To be continued]
       - ERROR: compatibility issues between OS on remote server and PetaLinux version 
 
-Further progression of the Internship project can be found in the detailed project report ( [VECC_project_report](url) ) uploaded in this repository.<br><br>
+Further progression of the Internship project can be found in the detailed project report ( [VECC_project_report.pdf](url) ) uploaded in this repository.<br><br>
 
 
 
